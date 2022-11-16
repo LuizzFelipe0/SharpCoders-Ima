@@ -1,0 +1,15 @@
+D:\Luiz Felipe Imã - Sharp Coders\C#\circleArea\obj\Debug\net6.0\circleArea.csproj.AssemblyReference.cache
+D:\Luiz Felipe Imã - Sharp Coders\C#\circleArea\obj\Debug\net6.0\circleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luiz Felipe Imã - Sharp Coders\C#\circleArea\obj\Debug\net6.0\circleArea.AssemblyInfoInputs.cache
+D:\Luiz Felipe Imã - Sharp Coders\C#\circleArea\obj\Debug\net6.0\circleArea.AssemblyInfo.cs
+D:\Luiz Felipe Imã - Sharp Coders\C#\circleArea\obj\Debug\net6.0\circleArea.csproj.CoreCompileInputs.cache
+D:\Luiz Felipe Imã - Sharp Coders\C#\circleArea\bin\Debug\net6.0\circleArea.exe
+D:\Luiz Felipe Imã - Sharp Coders\C#\circleArea\bin\Debug\net6.0\circleArea.deps.json
+D:\Luiz Felipe Imã - Sharp Coders\C#\circleArea\bin\Debug\net6.0\circleArea.runtimeconfig.json
+D:\Luiz Felipe Imã - Sharp Coders\C#\circleArea\bin\Debug\net6.0\circleArea.dll
+D:\Luiz Felipe Imã - Sharp Coders\C#\circleArea\bin\Debug\net6.0\circleArea.pdb
+D:\Luiz Felipe Imã - Sharp Coders\C#\circleArea\obj\Debug\net6.0\circleArea.dll
+D:\Luiz Felipe Imã - Sharp Coders\C#\circleArea\obj\Debug\net6.0\refint\circleArea.dll
+D:\Luiz Felipe Imã - Sharp Coders\C#\circleArea\obj\Debug\net6.0\circleArea.pdb
+D:\Luiz Felipe Imã - Sharp Coders\C#\circleArea\obj\Debug\net6.0\circleArea.genruntimeconfig.cache
+D:\Luiz Felipe Imã - Sharp Coders\C#\circleArea\obj\Debug\net6.0\ref\circleArea.dll

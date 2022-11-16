@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Luiz Felipe Imã - Sharp Coders/1.0.0": {
+        "runtime": {
+          "Luiz Felipe Imã - Sharp Coders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Luiz Felipe Imã - Sharp Coders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

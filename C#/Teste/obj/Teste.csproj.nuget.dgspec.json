@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\Teste\\Teste.csproj": {}
+    "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\teste\\Teste.csproj": {}
   },
   "projects": {
-    "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\Teste\\Teste.csproj": {
+    "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\teste\\Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\Teste\\Teste.csproj",
+        "projectUniqueName": "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\teste\\Teste.csproj",
         "projectName": "Teste",
-        "projectPath": "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\Teste\\Teste.csproj",
+        "projectPath": "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\teste\\Teste.csproj",
         "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-        "outputPath": "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\Teste\\obj\\",
+        "outputPath": "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\teste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config"

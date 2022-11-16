@@ -1,0 +1,15 @@
+D:\Luiz Felipe Imã - Sharp Coders\C#\Media1\bin\Debug\net6.0\Media1.exe
+D:\Luiz Felipe Imã - Sharp Coders\C#\Media1\bin\Debug\net6.0\Media1.deps.json
+D:\Luiz Felipe Imã - Sharp Coders\C#\Media1\bin\Debug\net6.0\Media1.runtimeconfig.json
+D:\Luiz Felipe Imã - Sharp Coders\C#\Media1\bin\Debug\net6.0\Media1.dll
+D:\Luiz Felipe Imã - Sharp Coders\C#\Media1\bin\Debug\net6.0\Media1.pdb
+D:\Luiz Felipe Imã - Sharp Coders\C#\Media1\obj\Debug\net6.0\Media1.csproj.AssemblyReference.cache
+D:\Luiz Felipe Imã - Sharp Coders\C#\Media1\obj\Debug\net6.0\Media1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luiz Felipe Imã - Sharp Coders\C#\Media1\obj\Debug\net6.0\Media1.AssemblyInfoInputs.cache
+D:\Luiz Felipe Imã - Sharp Coders\C#\Media1\obj\Debug\net6.0\Media1.AssemblyInfo.cs
+D:\Luiz Felipe Imã - Sharp Coders\C#\Media1\obj\Debug\net6.0\Media1.csproj.CoreCompileInputs.cache
+D:\Luiz Felipe Imã - Sharp Coders\C#\Media1\obj\Debug\net6.0\Media1.dll
+D:\Luiz Felipe Imã - Sharp Coders\C#\Media1\obj\Debug\net6.0\refint\Media1.dll
+D:\Luiz Felipe Imã - Sharp Coders\C#\Media1\obj\Debug\net6.0\Media1.pdb
+D:\Luiz Felipe Imã - Sharp Coders\C#\Media1\obj\Debug\net6.0\Media1.genruntimeconfig.cache
+D:\Luiz Felipe Imã - Sharp Coders\C#\Media1\obj\Debug\net6.0\ref\Media1.dll

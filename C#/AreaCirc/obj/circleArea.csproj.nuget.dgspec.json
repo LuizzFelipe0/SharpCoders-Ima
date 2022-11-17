@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\circleArea\\circleArea.csproj": {}
+    "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\AreaCirc\\circleArea.csproj": {}
   },
   "projects": {
-    "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\circleArea\\circleArea.csproj": {
+    "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\AreaCirc\\circleArea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\circleArea\\circleArea.csproj",
+        "projectUniqueName": "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\AreaCirc\\circleArea.csproj",
         "projectName": "circleArea",
-        "projectPath": "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\circleArea\\circleArea.csproj",
+        "projectPath": "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\AreaCirc\\circleArea.csproj",
         "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-        "outputPath": "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\circleArea\\obj\\",
+        "outputPath": "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\AreaCirc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config"

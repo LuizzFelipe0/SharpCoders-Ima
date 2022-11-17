@@ -1,5 +1,4 @@
 ﻿using System; 
-using System.Globalization;
 
 class URI {
 
@@ -7,11 +6,11 @@ class URI {
 
      double raio, area, pi = 3.14159;
 
-     raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+     raio = double.Parse(Console.ReadLine());
     
      area = pi * (raio*raio);
      
-    Console.WriteLine("A="+ area.ToString("F4", CultureInfo.InvariantCulture));
+    Console.WriteLine($"A={area:F5}");
 
 
 

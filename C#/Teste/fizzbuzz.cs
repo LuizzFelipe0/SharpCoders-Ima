@@ -1,27 +1,20 @@
-﻿class Program
+﻿using System;
+
+class Program
 {
     static void Main(string[] args)
     {
-        double valor = 15;
-        string resposta;
+       
+        int number = int.Parse(Console.ReadLine());
+        int hours =int.Parse(Console.ReadLine());
+        double value = double.Parse(Console.ReadLine());
 
-        if (valor % 3 == 0 && valor % 5 == 0)
-        {
-            resposta = "FizzBuzz";
-        }
-        else if (valor % 3 == 0)
-        {
-            resposta = "Fizz";
+        double salary = value * hours;
 
-        } else if (valor % 3 == 0)
-        {
-            resposta = "Buzz";
+        Console.WriteLine($"NUMBER {number}");
+        Console.WriteLine($"SALARY = U$ {salary.ToString("0.00")}");
 
-        }else
-        {
-            resposta = "None";
 
-        }
-        Console.WriteLine(resposta);
+
     }
 }

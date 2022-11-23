@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\Teste\\Teste.csproj",
+      "projectUniqueName": "C:\\Users\\windows\\Documents\\GitHub\\SharpCoders-Ima\\C#\\Teste\\Teste.csproj",
       "projectName": "Teste",
-      "projectPath": "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\Teste\\Teste.csproj",
+      "projectPath": "C:\\Users\\windows\\Documents\\GitHub\\SharpCoders-Ima\\C#\\Teste\\Teste.csproj",
       "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-      "outputPath": "D:\\Luiz Felipe Imã - Sharp Coders\\C#\\Teste\\obj\\",
+      "outputPath": "C:\\Users\\windows\\Documents\\GitHub\\SharpCoders-Ima\\C#\\Teste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config"

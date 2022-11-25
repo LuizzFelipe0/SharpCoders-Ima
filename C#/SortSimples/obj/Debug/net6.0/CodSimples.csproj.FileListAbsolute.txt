@@ -1,0 +1,15 @@
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\CodSimples\bin\Debug\net6.0\CodSimples.exe
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\CodSimples\bin\Debug\net6.0\CodSimples.deps.json
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\CodSimples\bin\Debug\net6.0\CodSimples.runtimeconfig.json
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\CodSimples\bin\Debug\net6.0\CodSimples.dll
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\CodSimples\bin\Debug\net6.0\CodSimples.pdb
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\CodSimples\obj\Debug\net6.0\CodSimples.csproj.AssemblyReference.cache
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\CodSimples\obj\Debug\net6.0\CodSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\CodSimples\obj\Debug\net6.0\CodSimples.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\CodSimples\obj\Debug\net6.0\CodSimples.AssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\CodSimples\obj\Debug\net6.0\CodSimples.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\CodSimples\obj\Debug\net6.0\CodSimples.dll
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\CodSimples\obj\Debug\net6.0\refint\CodSimples.dll
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\CodSimples\obj\Debug\net6.0\CodSimples.pdb
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\CodSimples\obj\Debug\net6.0\CodSimples.genruntimeconfig.cache
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\CodSimples\obj\Debug\net6.0\ref\CodSimples.dll

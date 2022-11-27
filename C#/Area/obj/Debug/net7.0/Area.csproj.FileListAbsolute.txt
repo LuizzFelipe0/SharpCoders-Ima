@@ -1,0 +1,15 @@
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\Area\bin\Debug\net7.0\Area.exe
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\Area\bin\Debug\net7.0\Area.deps.json
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\Area\bin\Debug\net7.0\Area.runtimeconfig.json
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\Area\bin\Debug\net7.0\Area.dll
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\Area\bin\Debug\net7.0\Area.pdb
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\Area\obj\Debug\net7.0\Area.csproj.AssemblyReference.cache
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\Area\obj\Debug\net7.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\Area\obj\Debug\net7.0\Area.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\Area\obj\Debug\net7.0\Area.AssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\Area\obj\Debug\net7.0\Area.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\Area\obj\Debug\net7.0\Area.dll
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\Area\obj\Debug\net7.0\refint\Area.dll
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\Area\obj\Debug\net7.0\Area.pdb
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\Area\obj\Debug\net7.0\Area.genruntimeconfig.cache
+C:\Users\windows\Documents\GitHub\SharpCoders-Ima\C#\Area\obj\Debug\net7.0\ref\Area.dll
